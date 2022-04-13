@@ -1,0 +1,12 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.icon{
+  margin-top: -50px;
+  height: 140px;
+  width: 140px;
+}
+.iconText{
+  margin-left: 100px;
+}
