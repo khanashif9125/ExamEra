@@ -22,7 +22,7 @@ import java.security.Principal;
 @CrossOrigin("*")
 public class AuthenticateController {
 
-
+    //this is for authentication
     @Autowired
     private AuthenticationManager authenticationManager;
 
